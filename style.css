@@ -1,0 +1,58 @@
+
+
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right,blueviolet,slateblue,violet);
+}
+
+header {
+    background-image: linear-gradient(to right,blueviolet,slateblue,violet) ;
+    height: 40px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+    padding-top: 10px ;
+}
+
+h1 {
+    text-align: center;
+}
+
+header a:hover {
+    background-color: darkblue;
+    color: aqua;
+    border-radius: 15px;
+    transition: all, 2s linear;
+}
+
+img {
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color:lightskyblue;
+}
+.beliy {
+    color: white;
+}
+ .zakrug {
+    border-radius: 10px;
+ }
+ ol {
+    color: white;
+ }
+
+ h2 {
+    color: white;
+        
+    
+ }
